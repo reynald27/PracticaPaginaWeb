@@ -1,1 +1,2 @@
 Hola desde archivo2
+Nuevo texto desde segundarama
